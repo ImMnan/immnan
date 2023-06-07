@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 - ♾️ I am a TSE for Blazemeter - Automation/continuous testing platform
-- ⚡ I help with Permormance tests & Infrastucture to perform those tests (via containerised engines powered by K8S & docker)
+- ⚡ I help with Permormance tests & Infrastucture to aid those tests (via containerised engines powered by K8S & docker)
 - 🌱 I am a contributor to HELM & Blazemeter documentations
