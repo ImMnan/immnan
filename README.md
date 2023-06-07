@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-- ♾️ I am a TSE for Blazemeter - Automation/continuous testing platform
+- ♾️ I am a Technical Support Engineer for Blazemeter - Automation/continuous testing platform
 - ⚡ I help with Permormance tests & Infrastucture to aid those tests (via containerised engines powered by K8S & docker)
 - 🌱 I am a contributor to HELM & Blazemeter documentations
