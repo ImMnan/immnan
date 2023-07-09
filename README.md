@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - ♾️ I am a Technical Support Engineer for Blazemeter - Automation/continuous testing platform
 - ⚡ I help with Permormance tests (i.e. Jmeter & Taurus) & Infrastucture to aid those tests (i.e. powered by K8S & docker)
-- 🚀 I also assist with API Monitoring (i.e. Runscope earlier), & mock services.
+- 🚀 I also assist with API Monitoring (i.e. Runscope), & mock services.
 - 🌱 I am a contributor to HELM & Blazemeter documentations
