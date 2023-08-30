@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - ♾️ Technical Support Engineer for Blazemeter - Automation/continuous testing platform
 - ⚡ I help with Performance tests, Spike test, Stess/Load test (through Jmeter & Taurus - Blazemeter) 
-- 🚀 My focus is to assist building K8S+Docker Infrastucture for users to run those performance tests (i.e. powered by K8S & Docker)
+- 🚀 My primary focus is to assist building K8S+Docker Infrastucture for users to run those performance tests (i.e. powered by K8S & Docker)
 - 🌱 I am a contributor to HELM & Blazemeter documentations
