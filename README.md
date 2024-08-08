@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 - ♾️ Technical Support Engineer for Blazemeter - Automation/continuous testing framework
 - ⚡ I help with Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
-- 🚀 SME for Infrastucture management (k8s) - assisting in building & fixing K8S+Docker infrastructure. 
+- 🚀 SME for Infrastructure management (k8s) - specialize in building & fixing K8S+Docker infrastructure.
+- #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> test  
 - 🌱 I am a contributor to HELM & Blazemeter documentation
