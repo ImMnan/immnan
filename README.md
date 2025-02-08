@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-- ♾️ Technical Support Engineer for Blazemeter - Automation/continuous testing framework
-- 🚀 SME for Kubernetes & Docker-based infrastructure within Blazemeter.
-- 🌱 Creator + maintainer of official Blazemeter HELM package (helm-crane)
-- ⚡ I help with Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
+- ♾️ Technical Support Engineer at [Blazemeter](https://www.blazemeter.com/) by [Perforce](https://www.perforce.com/)
+- 🚀 I help with Kubernetes & Docker-based infrastructure deployment, maintenance and fixes.
+- 🌱 Creator + maintainer of Helm package offered by Blazemeter [(helm-crane)](https://github.com/Blazemeter/helm-crane)
+- ⚡ Provide support for Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
 - 📄 A contributor to HELM & Blazemeter documentations
