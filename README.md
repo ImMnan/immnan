@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🚀 I help with Kubernetes & Docker-based infrastructure deployment, maintenance and fixes.
 - 🌱 Creator + maintainer of Helm package offered by Blazemeter [(helm-crane)](https://github.com/Blazemeter/helm-crane)
 - 🌱 Creator + maintainer of a client-GO based [crane-hook image](https://github.com/Blazemeter/crane-hook/tree/main) for k8s infrastructure & network validation.
-- ⚡ Provide support for Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
+- ⚡ Contributor to K8S K8s-based functionalities of the Blazemeter on-premise agent.
+- 💬 Provide support for Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
 - 📄 A contributor to HELM & Blazemeter documentations
