@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-- ♾️ Technical Support Engineer at [Blazemeter](https://www.blazemeter.com/) by [Perforce](https://www.perforce.com/)
+- ♾️ Senior Technical Support Engineer at [Blazemeter](https://www.blazemeter.com/) by [Perforce](https://www.perforce.com/)
 - 🚀 I help with Kubernetes & Docker-based infrastructure deployment, maintenance and fixes.
 - 🌱 Creator + maintainer of Helm package offered by Blazemeter [(helm-crane)](https://github.com/Blazemeter/helm-crane)
 - 🌱 Creator + maintainer of a client-GO based [crane-hook image](https://github.com/Blazemeter/crane-hook/tree/main) for k8s infrastructure & network validation.
