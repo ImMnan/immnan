@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
-- ♾️ Senior Technical Support Engineer at [Blazemeter](https://www.blazemeter.com/) by [Perforce](https://www.perforce.com/)
-- 🚀 I help with Kubernetes & Docker-based infrastructure deployment, maintenance and fixes.
-- 🌱 Creator + maintainer of Helm package offered by Blazemeter [(helm-crane)](https://github.com/Blazemeter/helm-crane)
-- 🌱 Creator + maintainer of a client-GO based [crane-hook image](https://github.com/Blazemeter/crane-hook/tree/main) for k8s infrastructure & network validation.
-- ⚡ Contributor to K8s-based functionalities of the Blazemeter on-premise agent (bzm-crane)
-- 💬 Provide support for Performance tests, Spike tests, Stress/Load tests (through Jmeter & Taurus - Blazemeter) 
-- 📄 A contributor to HELM & Blazemeter documentations
+
+- ⚡ Kubernetes Infrastructure SME focused on designing, building, and maintaining scalable cluster environments for enterprise accounts/customers. 
+- 🚀 Deliver custom solutions aligned with diverse customer requirements and real-world use cases
+- 🚀 POCs co-own/assist (pre-sales, post-sales, migrations, and new adoptions) to ensure successful customer outcomes
+- 🌱 Author & lead maintainer of helm-crane [BlazeMeter’s standard Helm chart](https://github.com/Blazemeter/helm-crane)
+- 🌱 Contributor to [BlazeMeter agent/server's](https://help.blazemeter.com/docs/guide/private-locations-install-blazemeter-agent-for-kubernetes.html?tocpath=Private%20locations%7CInstallation%20of%20Private%20Locations%7C_____5) Kubernetes components code. Improved security, enabled advanced configurations, and fixed critical issues
+- 🌱 Creator & maintainer of [Crane-hook](https://github.com/Blazemeter/crane-hook) (Go-based K8s infra validator for enforcing cluster prerequisites and detecting misconfigurations)
+- 📄 Produce technical content: docs, guides, videos, and blogs for customer enablement
+- 📄 Open-source contributor to Helm & Kubernetes docs; engaged in community forums and Slack
+
+> Talk to me over a coffee on Kubernetes Slack or [discuss.kubernetes.io](https://discuss.kubernetes.io/u/immnan/summary) forums, I am a quick learner and compulsive innovator! 
