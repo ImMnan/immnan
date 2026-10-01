@@ -1,27 +1,49 @@
-### Hi there 👋
+# Hi there, I'm Manan Patel (ImMnan) 👋
 
-<!--
-**ImMnan/immnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Technical Support Engineer & Kubernetes Infrastructure SME** 
 
-Here are some ideas to get you started:
-⚡ 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+🏆 **CKA & CKAD Certified**
 
-- ⚡ Kubernetes Infrastructure SME focused on designing, building, and maintaining scalable cluster environments for enterprise accounts/customers. 
-- 🚀 Deliver custom solutions aligned with diverse customer requirements and real-world use cases
-- 🚀 POCs co-own/assist (pre-sales, post-sales, migrations, and new adoptions) to ensure successful customer outcomes
-- 🌱 Author & lead maintainer of helm-crane [BlazeMeter’s standard Helm chart](https://github.com/Blazemeter/helm-crane)
-- 🌱 Contributor to [BlazeMeter agent/server's](https://help.blazemeter.com/docs/guide/private-locations-install-blazemeter-agent-for-kubernetes.html?tocpath=Private%20locations%7CInstallation%20of%20Private%20Locations%7C_____5) Kubernetes components code. Improved security, enabled advanced configurations, and fixed critical issues
-- 🌱 Creator & maintainer of [Crane-hook](https://github.com/Blazemeter/crane-hook) (Go-based K8s infra validator for enforcing cluster prerequisites and detecting misconfigurations)
-- 📄 Produce technical content: docs, guides, videos, and blogs for customer enablement
-- 📄 Open-source contributor to Helm & Kubernetes docs; engaged in community forums and Slack
+I specialise in designing, securing, and maintaining enterprise-grade, high-availability Kubernetes cluster environments.  I design and secure production-ready, multi-tenant clusters, managing advanced container networking topologies and security compliance policies. I bridge the gap between complex cloud-native architectures and real-world deployment reliability using **Go, GitOps, K8s, Networking, Linux, and GCP**. 
 
-> Talk to me over a coffee on Kubernetes Slack or [discuss.kubernetes.io](https://discuss.kubernetes.io/u/immnan/summary) forums, I am a quick learner and compulsive innovator! 
+**Pre & Post-Sales Engineering:** Co-owning high-stakes Proof of Concepts (POCs), driving enterprise customers, and managing architectural adoptions.
+
+---
+
+### 🛠️ Technical Ecosystem
+```
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                                   MY TECH STACK                                      │
+├───────────────────┬───────────────────┬───────────────────┬──────────────────────────┤
+│ INFRASTRUCTURE    │ GITOPS & IAC      │ CORE NETWORKING   │ DEVELOPMENT & DATA       │
+├───────────────────┼───────────────────┼───────────────────┼──────────────────────────┤
+│ • Kubernetes      │ • ArgoCD          │ • Linux Systems   │ • Go (Golang)            │
+│   (CKA, CKAD)     │ • Git             │ • K8s Networking  │ • RAG Pipelines          │
+│ • Docker          │ • GitOps          │ • CNI             │ • Qdrant Vector DB       │
+│ • Container-d     │ • Terraform / HCL │ • Gateway         │ • vLLM                   │
+│ • CRI-o           │                   │ • Net Namespaces  │ • LLM-d                  │
+│ • Helm            │                   │ • OSI (DNS, TCP,  │ • Python                 │
+│ • GCP             │                   │   UDP, TLS, HTTP, │ • DRA.                   │
+│ • AWS / EKS       │                   │   gRPC)           │                          │
+│ • Azure / AKS     │                   │ • NAT / IPTables  │                          │
+│ • OpenShift       │                   │ • IPVS            │                          │
+│ • DRA             │                   │ • eBPF            │                          │
+└───────────────────┴───────────────────┴───────────────────┴──────────────────────────┘
+```
+
+### 📊 Code Contributions & Engineering Velocity
+
+* **Active Ecosystem Contribution:** Contributor to **BlazeMeter agent/server** core Kubernetes components code. Improved overall runtime security, added advanced cluster configuration support, and patched critical system issues. Helped introduce features to support custom solutions for diverse customer deployment needs (Security, Compliance and other standard admission policies).
+* **Creator and Maintainer of BlazeMeter Helm charts** that streamline the BlazeMeter server/agent deployments
+* **Creator and Maintainer of Crane-hook**, which is an automated test package in **Go** to guarantee cluster health and prerequisite validation.
+* **Upstream Open Source:** Contributor to official **Helm & Kubernetes** documentation; highly engaged across community Slack workspaces and official forums. 
+* **Commit Velocity:** 140+ targeted structural commits executed within advanced application branches, ensuring rapid validation cycles.
+
+
+---
+
+### 💬 Let's Connect!
+
+* **Kubernetes Slack:** Let's sync up on the official community workspace.
+* **Cloud Forums:** [@immnan on discuss.kubernetes.io](https://discuss.kubernetes.io/u/immnan/summary)
+* **LinkedIn:** [/in/mananpatel-sudo](https://linkedin.com/in/mananpatel-sudo)
