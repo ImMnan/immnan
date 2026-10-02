@@ -1,8 +1,8 @@
-# Hi there, I'm Manan Patel (ImMnan) 👋
+## I'm Manan Patel (ImMnan) 👋
 
 **Senior Technical Support Engineer & Kubernetes Infrastructure SME** 
 
-🏆 **CKA & CKAD Certified**
+🏆 **CKA & CKAD Certified** - [Licenses & Certs](https://www.linkedin.com/in/mananpatel-sudo/details/certifications/) 
 
 I specialise in designing, securing, and maintaining enterprise-grade, high-availability Kubernetes cluster environments.  I design and secure production-ready, multi-tenant clusters, managing advanced container networking topologies and security compliance policies. I bridge the gap between complex cloud-native architectures and real-world deployment reliability using **Go, GitOps, K8s, Networking, Linux, and GCP**. 
 
