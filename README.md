@@ -17,17 +17,17 @@ I specialise in designing, securing, and maintaining enterprise-grade, high-avai
 ├───────────────────┬───────────────────┬───────────────────┬──────────────────────────┤
 │ INFRASTRUCTURE    │ GITOPS & IAC      │ CORE NETWORKING   │ DEVELOPMENT & DATA       │
 ├───────────────────┼───────────────────┼───────────────────┼──────────────────────────┤
-│ • Kubernetes      │ • ArgoCD          │ • Linux Systems   │ • Go (Golang)            │
-│   (CKA, CKAD)     │ • Git             │ • K8s Networking  │ • RAG Pipelines          │
-│ • Docker          │ • GitOps          │ • CNI             │ • Qdrant Vector DB       │
-│ • Container-d     │ • Terraform / HCL │ • Gateway         │ • vLLM                   │
-│ • CRI-o           │                   │ • Net Namespaces  │ • LLM-d                  │
-│ • Helm            │                   │ • OSI (DNS, TCP,  │ • Python                 │
-│ • GCP             │                   │   UDP, TLS, HTTP, │ • DRA.                   │
-│ • AWS / EKS       │                   │   gRPC)           │                          │
-│ • Azure / AKS     │                   │ • NAT / IPTables  │                          │
-│ • OpenShift       │                   │ • IPVS            │                          │
-│ • DRA             │                   │ • eBPF            │                          │
+│ • Kubernetes      │ • ArgoCD          │ • K8s Networking  │ • Go (Golang)            │
+│   (CKA, CKAD)     │ • Git             │ • CNI             │ • RAG Pipelines          │
+│ • Docker          │ • GitOps          │ • Gateway         │ • Qdrant Vector DB       │
+│ • Container-d     │ • Terraform / HCL │ • Net Namespaces  │ • vLLM                   │
+│ • CRI-o           │                   │ • OSI (DNS, TCP,  │ • LLM-d                  │
+│ • Helm            │                   │   UDP, TLS, HTTP, │ • Python                 │
+│ • GCP             │                   │   gRPC)           │                          │
+│ • AWS / EKS       │                   │ • NAT / IPTables  │                          │
+│ • Azure / AKS     │                   │ • IPVS            │                          │
+│ • OpenShift       │                   │ • eBPF            │                          │
+│ • DRA             │                   │                   │                          │
 └───────────────────┴───────────────────┴───────────────────┴──────────────────────────┘
 ```
 
